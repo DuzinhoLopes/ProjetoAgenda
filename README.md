@@ -7,7 +7,7 @@
 - Criação de um CRUD
 - Criação de uma base de dados
 
-### *Caso deseje testar a aplicação em um ambiente localhost, será necessário criar um arquivo .env na pasta raiz, com o link da sua base de dados*
+### *Caso deseje testar a aplicação em um ambiente localhost, será necessário criar um arquivo chamado ".env" na pasta raiz com o link da sua base de dados*
 
 ### Projeto Agenda ministrado pelo instrutor [Luiz Otávio Miranda](https://www.udemy.com/user/luiz-otavio-miranda/).
 
